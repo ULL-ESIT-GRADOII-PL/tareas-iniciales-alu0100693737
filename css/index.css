@@ -8,14 +8,12 @@ html {
   text-align: justify;
   padding-right: 3%;
   margin-left: 10%;
-  margin-right: 10%
+  margin-right: 10%;
+  color:black;
 }
 p{
   font-family: cursive;
   font-weight: 100;
-
-
-
 }
 h1,
 h2,
@@ -28,18 +26,20 @@ h6 {
     font-weight: 700;
     padding: 10px;
 }
-
+h2:hover{
+  color: #fff;
+  position: relative;
+}
 
 a {
-  background-color: rgba(85, 116, 83, 1);
+  background-color: rgba(215, 40, 40, 0.9);
   color: black;
   text-decoration: none;
-  padding: 25px;
-
+  padding: 10px;
 }
 
 a:hover {
-  color: #0B610B;
+  color: #fff;
   position: relative;
 }
 
@@ -92,7 +92,7 @@ a[title]:hover:after {
 
 #cuartoparrafo{
   font-family: cursive;
-  background-color: rgba(164, 44, 44, 0.5);
+  background-color: rgba(255, 101, 123, 0.4);
   padding-left: 3%;
   padding-right: 2%;
 }
@@ -100,7 +100,7 @@ a[title]:hover:after {
 
 #quintoparrafo{
   font-family: cursive;
-  background-color: rgba(85, 116, 83, 0.4);
+background-color: rgba(215, 188, 44, 0.5);
   padding-left: 3%;
   padding-right: 2%;
 }
@@ -108,7 +108,7 @@ a[title]:hover:after {
 
 #sextoparrafo{
   font-family: cursive;
-  background-color: rgba(85, 116, 83, 0.4);
+background-color: rgba(148, 97, 206, 0.5);
   padding-left: 3%;
   padding-right: 2%;
 }
@@ -116,24 +116,13 @@ a[title]:hover:after {
 
 #septimoparrafo{
   font-family: cursive;
-  background-color: rgba(85, 116, 83, 0.4);
+background-color: rgba(148, 230, 206, 0.5);
   padding-left: 3%;
   padding-right: 2%;
 }
 
 #enlaces{
-
-  a:link, a:visited {
-    background-color: #f44336;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
+    color: black;
     text-decoration: none;
-    display: inline-block;
+    padding: 10px;
   }
-
-
-  a:hover, a:active {
-    background-color: red;
-  }
-}
