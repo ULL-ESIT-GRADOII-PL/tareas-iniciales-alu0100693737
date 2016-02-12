@@ -70,11 +70,55 @@ a[title]:hover:after {
 #primerparrafo{
   font-family: cursive;
   background-color: rgba(85, 116, 83, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
 }
 #primerparrafo.outset {border-style: dotted;}
 
 #segundoparrafo{
   font-family: cursive;
   background-color: rgba(85, 116, 83, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
 }
 #segundoparrafo.outset {border-style: dotted;}
+
+#tercerparrafo{
+  font-family: cursive;
+  background-color: rgba(85, 116, 83, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#tercerparrafo.outset {border-style: dotted;}
+
+#cuartoparrafo{
+  font-family: cursive;
+  background-color: rgba(85, 116, 83, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#cuartoparrafo.outset {border-style: dotted;}
+
+#quintoparrafo{
+  font-family: cursive;
+  background-color: rgba(85, 116, 83, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#quintoparrafo.outset {border-style: dotted;}
+
+#sextoparrafo{
+  font-family: cursive;
+  background-color: rgba(85, 116, 83, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#sextoparrafo.outset {border-style: dotted;}
+
+#septimoparrafo{
+  font-family: cursive;
+  background-color: rgba(85, 116, 83, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#sseptimoparrafo.outset {border-style: dotted;}
