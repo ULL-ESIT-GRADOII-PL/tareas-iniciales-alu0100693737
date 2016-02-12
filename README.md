@@ -1,6 +1,6 @@
 ## Tarea Inicial
 
-Nota: esta pagina ha sido desarrollada usando Marckdown.
+Nota: esta pagina ha sido desarrollada usando Markdown.
 --------------------------------------------------------
 Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
 
