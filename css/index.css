@@ -1,0 +1,140 @@
+html {
+  background: url(../images/fondo2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-size: 20px;
+  text-align: justify;
+  padding-right: 3%;
+  margin-left: 10%;
+  margin-right: 10%;
+  color:black;
+}
+p, h3{
+  font-family: cursive;
+  font-weight: 100;
+}
+h1,
+h2,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    padding: 10px;
+}
+
+#perfil{
+
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 50px;
+}
+#nombre{
+
+  color:white;
+
+}
+
+h2:hover{
+  color: #fff;
+  position: relative;
+}
+
+a {
+  background-color: rgba(255, 156, 44, 0.8);
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+}
+
+a:hover {
+  color: #fff;
+  position: relative;
+}
+
+a[title]:hover:after {
+  content: attr(title);
+  padding: 4px 8px;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  z-index: 20;
+  white-space: nowrap;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0px 0px 4px #222;
+  -webkit-box-shadow: 0px 0px 4px #222;
+  box-shadow: 0px 0px 4px #222;
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
+  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+}
+
+#primerparrafo{
+  font-family: cursive;
+  background-color: rgba(255, 248, 147, 0.5);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#primerparrafo.outset {border-style: dotted;}
+
+#segundoparrafo{
+  font-family: cursive;
+  background-color: rgba(85, 116, 83, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#segundoparrafo.outset {border-style: dotted;}
+
+#tercerparrafo{
+  font-family: cursive;
+  background-color: rgba(160, 0, 168, 0.2);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#tercerparrafo.outset {border-style: dotted;}
+
+#cuartoparrafo{
+  font-family: cursive;
+  background-color: rgba(255, 101, 123, 0.4);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#cuartoparrafo.outset {border-style: dotted;}
+
+#quintoparrafo{
+  font-family: cursive;
+background-color: rgba(215, 188, 44, 0.5);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#quintoparrafo.outset {border-style: dotted;}
+
+#sextoparrafo{
+  font-family: cursive;
+background-color: rgba(148, 97, 206, 0.5);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+#sextoparrafo.outset {border-style: dotted;}
+
+#septimoparrafo{
+  font-family: cursive;
+background-color: rgba(148, 230, 206, 0.5);
+  padding-left: 3%;
+  padding-right: 2%;
+}
+
+#enlaces{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+  }
