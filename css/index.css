@@ -11,13 +11,12 @@ html {
   margin-right: 10%;
   color:black;
 }
-p{
+p, h3{
   font-family: cursive;
   font-weight: 100;
 }
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
@@ -28,10 +27,15 @@ h6 {
 }
 
 #perfil{
-  text-align: right;
+
   font-size: 20px;
   font-style: italic;
   font-weight: 50px;
+}
+#nombre{
+
+  color:white;
+
 }
 
 h2:hover{
@@ -40,7 +44,7 @@ h2:hover{
 }
 
 a {
-  background-color: rgba(215, 40, 40, 0.9);
+  background-color: rgba(255, 156, 44, 0.8);
   color: black;
   text-decoration: none;
   padding: 10px;
