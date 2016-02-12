@@ -26,6 +26,14 @@ h6 {
     font-weight: 700;
     padding: 10px;
 }
+
+#perfil{
+  text-align: right;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 50px;
+}
+
 h2:hover{
   color: #fff;
   position: relative;
