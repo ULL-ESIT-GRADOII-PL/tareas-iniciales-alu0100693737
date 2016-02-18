@@ -99,6 +99,10 @@ Listas
 * [Cloud 9 IDE](https://c9.io)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [Resultado del Markdown HTML](http://alu0100536652.github.io/Tutorial-STW/)
 =======
 >>>>>>> 192b1fb82656d4c74c53fdabe874f53b3e670f6d
+=======
+* [Resultado del Markdown HTML](http://alu0100536652.github.io/Tutorial-STW/)
+>>>>>>> f1d8adbe69fbb8e5cf20a55cd3b1131c95007483
