@@ -20,4 +20,3 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura Si
 ###### Iván García Campos.
 
 ###### Markdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.
-
